@@ -5,3 +5,4 @@ This is the code for the user interface. But I would need some help to make it l
 And if you have any ideas to make it better?
 
 This what the web page looks like at the moment : 
+https://github.com/wawator/BarBox/blob/master/images/screencapture.png

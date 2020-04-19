@@ -1,0 +1,13 @@
+GPIO 0 - Relay 1 : Vodka 
+GPIO 1 - Relay 2 : Rhum Blanc
+GPIO 2 - Relay 3 : Curaçao Bleu
+GPIO 3 - Relay 4 : Schnaps à la pêche
+GPIO 4 - Relay 5 : Jus d'orange
+GPIO 5 - Relay 6 : Limonade
+GPIO 6 - Relay 7 : Jus de Cranberry
+GPIO 7 - Relay 8 : Jus de Pamplemousse
+
+exec("gpio write 1 0"); = pump on 
+sleep (5); = pump on for (secs)
+exec("gpio write 5 1"); pump off
+So pump turns off after seconds
